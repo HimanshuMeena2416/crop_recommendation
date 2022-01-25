@@ -1,0 +1,42 @@
+name: flash_chat
+description: A new Flutter application.
+
+version: 1.0.0+1
+environment:
+  sdk: ">=2.2.2"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^1.11.0
+  firebase_auth:
+  firebase_auth_web:
+  flutter_launcher_icons:
+  modal_progress_hud:
+  flutter_icons:
+  google_fonts:
+  http:
+  http_parser:
+  gsheets:
+  cloud_firestore: ^3.1.6
+  geolocator: ^5.3.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icon:
+  android: 'launcher_icon'
+  image_path: 'images/logo.png'
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - images/
+
+  fonts:
+    - family: Dancing Script
+      fonts:
+        - asset: fonts/DancingScript-Bold.ttf

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637084465559",
+    "project_id": "crop-f133e",
+    "storage_bucket": "crop-f133e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637084465559:android:ea414600f69160dc70acd2",
+        "android_client_info": {
+          "package_name": "co.ishita.flash_ch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637084465559-8g8lq9nrmbmirpmok0kig96ttombm2dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbKnkDIJk_GQ6M0txTHGqlqaSzVQjDjYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637084465559-8g8lq9nrmbmirpmok0kig96ttombm2dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
